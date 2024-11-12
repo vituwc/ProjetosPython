@@ -1,21 +1,21 @@
-# Projetos em Python
+# Python Projects
 
-Olá, sou iniciante em programação e este é o meu repositório! Vou compartilhar os projetos que estou desenvolvendo conforme aprendo Python. Com o tempo, vou melhorar e adicionar mais projetos.
+Hello, I'm a beginner in programming, and this is my repository! I'll be sharing the projects I'm developing as I learn Python. Over time, I'll improve and add more projects.
 
-## Como rodar os projetos
+## How to Run the Projects
 
-1. Clone o repositório:
+1. Clone the repository:
    ```bash
    git clone https://github.com/vituwc/ProjetosPython.git
-Entre na pasta do projeto:
+Navigate to the project folder:
 bash
 Copy code
-cd nome-do-projeto
-Execute o projeto:
+cd project-name
+Run the project:
 bash
 Copy code
-python nome_do_arquivo.py
-Feito com Python
+python file-name.py
+Made with Python
 
 
-Obrigado por visitar! :blush:
+Thanks for visiting! :blush:
