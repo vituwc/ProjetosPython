@@ -6,21 +6,15 @@ Hello, I'm a beginner in programming, and this is my repository! I'll be sharing
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vituwc/ProjetosPython.git
+   git clone https://github.com/your-username/your-repository.git
 Navigate to the project folder:
-   ```bash
-bash
-Copy code
-   ```bash
-cd project-name
 
-Run the project:
-   ```bash
 bash
 Copy code
-   ```bash
+cd project-name
+Run the project:
+
+bash
+Copy code
 python file-name.py
 Made with Python
-
-
-Thanks for visiting! :blush:
