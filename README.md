@@ -12,9 +12,17 @@ Navigate to the project folder:
 bash
 Copy code
 cd project-name
+Install dependencies (if any):
+
+bash
+Copy code
+pip install -r requirements.txt
 Run the project:
 
 bash
 Copy code
 python file-name.py
 Made with Python
+
+
+Thanks for visiting! :blush:
