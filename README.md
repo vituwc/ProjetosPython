@@ -6,7 +6,7 @@ Olá, sou iniciante em programação e este é o meu repositório! Vou compartil
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/vituwc/ProjetosPython.git
 Entre na pasta do projeto:
 bash
 Copy code
